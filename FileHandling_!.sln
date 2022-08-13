@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading_Data", "Reading_Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Copy", "File_Copy\File_Copy.csproj", "{9986FB03-92FB-4B34-AD2B-BBD4DF8B44D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryInfo_Class", "DirectoryInfo_Class\DirectoryInfo_Class.csproj", "{CA08BC39-8E52-43BF-804C-B33705A168C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9986FB03-92FB-4B34-AD2B-BBD4DF8B44D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9986FB03-92FB-4B34-AD2B-BBD4DF8B44D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9986FB03-92FB-4B34-AD2B-BBD4DF8B44D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA08BC39-8E52-43BF-804C-B33705A168C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA08BC39-8E52-43BF-804C-B33705A168C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA08BC39-8E52-43BF-804C-B33705A168C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA08BC39-8E52-43BF-804C-B33705A168C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
